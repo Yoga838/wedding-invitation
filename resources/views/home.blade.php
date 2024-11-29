@@ -401,7 +401,7 @@ foreach ($detail as $item) {
                         @foreach ($wedding as $item)
                         <span>© Copyright {{ $item->name }} {{date("Y")}}</span>
                         @endforeach
-                        <span>Developed by <a href="https://wa.me/6287823327307" target="_blank">danixsofyan</a></span>
+                        <span>Developed by <a href="https://github.com/Yoga838" target="_blank">Prayoga</a></span>
                     </div>
                 </footer>
 
